@@ -1,4 +1,4 @@
-## what are purpose of tcast and substring in sql
+# What are purpose of tcast and substring in sql
 1. **CAST/CONVERT Function:**
    - The `CAST` or `CONVERT` functions in SQL are used to convert a value from one data type to another. For example:
      ```sql
